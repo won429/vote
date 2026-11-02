@@ -3,34 +3,34 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#f2f2f7">
-  <meta name="description" content="내 아이폰과 아이패드 속 부품을 알아보세요. 진단 파일을 기기 안에서 분석하는 엔조이 기기 리포트.">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="description" content="아이폰과 아이패드의 부품 제조사와 배터리 정보를 확인하세요.">
   <meta name="color-scheme" content="light dark">
-  <title>기기 리포트 · 엔조이</title>
-  <link rel="icon" href="./icon.svg" type="image/svg+xml">
+  <title>기기 확인</title>
+  <link rel="icon" href="./assets/app-icon.svg" type="image/svg+xml">
   <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="preload" href="./assets/PretendardVariable.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="./styles.css">
   <script type="module" src="./app.js"></script>
 </head>
 <body>
-  <div class="app-frame">
-    <header class="app-header">
-      <a class="brand" href="#home" aria-label="엔조이 기기 홈"><span class="brand-mark">e<span></span></span><span>엔조이 <b>기기</b></span></a>
-      <div class="header-actions"><span class="local-pill"><i class="status-dot"></i> 기기 안에서 분석</span><button class="icon-button" id="theme-toggle" aria-label="화면 테마 변경" title="화면 테마 변경"></button></div>
-    </header>
+  <div class="app-shell">
+    <header class="topbar" id="topbar"></header>
     <main id="main" tabindex="-1"></main>
-    <nav class="bottom-nav" aria-label="주 메뉴">
-      <a href="#home" data-nav="home"><span data-icon="home"></span><span>분석하기</span></a>
-      <a href="#report" data-nav="report"><span data-icon="report"></span><span>리포트</span></a>
+    <nav class="tabbar" aria-label="주 메뉴">
+      <a href="#home" data-nav="home"><span data-icon="home"></span><span>홈</span></a>
+      <a href="#report" data-nav="report"><span data-icon="report"></span><span>분석 결과</span></a>
       <a href="#history" data-nav="history"><span data-icon="history"></span><span>보관함</span></a>
-      <a href="#guide" data-nav="guide"><span data-icon="guide"></span><span>이용 안내</span></a>
     </nav>
-    <footer class="app-footer">ENJOY DEVICE <span>내 기기를 더 잘 아는 방법</span></footer>
   </div>
   <input id="file-input" type="file" multiple accept=".tar.gz,.tgz,.tar,.zip,.gz,.ips,.json,.jsonl,.ndjson,.plist,.xml,.txt,.log,.csv" hidden>
   <input id="folder-input" type="file" webkitdirectory multiple hidden>
   <div id="toast" role="status" aria-live="polite" hidden></div>
-  <dialog id="detail-dialog" aria-labelledby="dialog-title"><div id="dialog-content"></div><button class="button secondary full" id="close-dialog">닫기</button></dialog>
-  <noscript><p class="noscript">진단 파일을 기기 안에서 분석하려면 JavaScript를 켜주세요.</p></noscript>
+  <dialog id="detail-dialog" aria-labelledby="dialog-title">
+    <div class="sheet-handle" aria-hidden="true"></div>
+    <div class="sheet-top"><button class="icon-button" id="close-dialog" aria-label="닫기"><svg viewBox="0 0 256 256" aria-hidden="true"><use href="./assets/icons.svg#close"/></svg></button></div>
+    <div id="dialog-content"></div>
+  </dialog>
+  <noscript><p>파일을 분석하려면 자바스크립트를 켜주세요.</p></noscript>
 </body>
 </html>

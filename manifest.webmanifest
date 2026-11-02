@@ -1,1 +1,1 @@
-{"name":"엔조이 기기 리포트","short_name":"엔조이 기기","start_url":"./","scope":"./","display":"standalone","background_color":"#f2f2f7","theme_color":"#3182f6","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"name":"기기 확인","short_name":"기기 확인","start_url":"./","scope":"./","display":"standalone","background_color":"#ffffff","theme_color":"#ffffff","icons":[{"src":"./assets/app-icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}

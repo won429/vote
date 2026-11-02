@@ -1,0 +1,277 @@
+export default [
+  {
+    "model": "iPhone Duo",
+    "file": "./assets/devices/iphone-duo.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-duo/iphone-duo-colors.png"
+  },
+  {
+    "model": "iPhone 18 Pro Max",
+    "file": "./assets/devices/iphone-18-pro-max.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-18-pro-max-colors.png"
+  },
+  {
+    "model": "iPhone 18 Pro",
+    "file": "./assets/devices/iphone-18-pro.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-18-pro-colors.png"
+  },
+  {
+    "model": "iPhone 17e",
+    "file": "./assets/devices/iphone-17e.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17e/iphone-17e-colors.png"
+  },
+  {
+    "model": "iPhone 17 Pro Max",
+    "file": "./assets/devices/iphone-17-pro-max.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-max-colors.png"
+  },
+  {
+    "model": "iPhone 17 Pro",
+    "file": "./assets/devices/iphone-17-pro.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-pro-colors.png"
+  },
+  {
+    "model": "iPhone 17",
+    "file": "./assets/devices/iphone-17.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-17-colors.png"
+  },
+  {
+    "model": "iPhone Air",
+    "file": "./assets/devices/iphone-air.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-air-colors.png"
+  },
+  {
+    "model": "iPhone 16e",
+    "file": "./assets/devices/iphone-16e.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16e/iphone-16e-colors.png"
+  },
+  {
+    "model": "iPhone 16 Pro Max",
+    "file": "./assets/devices/iphone-16-pro-max.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-max-colors.png"
+  },
+  {
+    "model": "iPhone 16 Pro",
+    "file": "./assets/devices/iphone-16-pro.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-pro-colors.png"
+  },
+  {
+    "model": "iPhone 16 Plus",
+    "file": "./assets/devices/iphone-16-plus.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-plus-colors.png"
+  },
+  {
+    "model": "iPhone 16",
+    "file": "./assets/devices/iphone-16.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-16-colors.png"
+  },
+  {
+    "model": "iPhone 15 Pro Max",
+    "file": "./assets/devices/iphone-15-pro-max.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro-max.png"
+  },
+  {
+    "model": "iPhone 15 Pro",
+    "file": "./assets/devices/iphone-15-pro.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-pro.png"
+  },
+  {
+    "model": "iPhone 15 Plus",
+    "file": "./assets/devices/iphone-15-plus.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15-plus.png"
+  },
+  {
+    "model": "iPhone 15",
+    "file": "./assets/devices/iphone-15.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/fall-2023-iphone-colors-iphone-15.png"
+  },
+  {
+    "model": "iPhone 14 Pro Max",
+    "file": "./assets/devices/iphone-14-pro-max.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-max-colors.png"
+  },
+  {
+    "model": "iPhone 14 Pro",
+    "file": "./assets/devices/iphone-14-pro.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-pro-colors.png"
+  },
+  {
+    "model": "iPhone 14 Plus",
+    "file": "./assets/devices/iphone-14-plus.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-plus-colors-spring-2023.png"
+  },
+  {
+    "model": "iPhone 14",
+    "file": "./assets/devices/iphone-14.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-14-colors-spring-2023.png"
+  },
+  {
+    "model": "iPhone SE (3rd generation)",
+    "file": "./assets/devices/iphone-se-3rd-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-se-3rd-gen-colors.png"
+  },
+  {
+    "model": "iPhone 13 Pro Max",
+    "file": "./assets/devices/iphone-13-pro-max.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-max-colors.png"
+  },
+  {
+    "model": "iPhone 13 Pro",
+    "file": "./assets/devices/iphone-13-pro.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-pro-colors.png"
+  },
+  {
+    "model": "iPhone 13",
+    "file": "./assets/devices/iphone-13.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-spring-iphone13-colors.png"
+  },
+  {
+    "model": "iPhone 13 mini",
+    "file": "./assets/devices/iphone-13-mini.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2022-iphone13-mini-colors.png"
+  },
+  {
+    "model": "iPhone 12 Pro Max",
+    "file": "./assets/devices/iphone-12-pro-max.jpg",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro-max/iphone12-pro-max-colors.jpg"
+  },
+  {
+    "model": "iPhone 12 Pro",
+    "file": "./assets/devices/iphone-12-pro.jpg",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/iphone-12-pro/iphone12-pro-colors.jpg"
+  },
+  {
+    "model": "iPhone 12",
+    "file": "./assets/devices/iphone-12.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-colors.png"
+  },
+  {
+    "model": "iPhone 12 mini",
+    "file": "./assets/devices/iphone-12-mini.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/iphone/2021-iphone12-mini-colors.png"
+  },
+  {
+    "model": "iPad Pro 13-inch (M5)",
+    "file": "./assets/devices/ipad-pro-13-inch-m5.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-13in.png"
+  },
+  {
+    "model": "iPad Pro 11-inch (M5)",
+    "file": "./assets/devices/ipad-pro-11-inch-m5.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/fall-2025-ipad-pro-m5-11in.png"
+  },
+  {
+    "model": "iPad Pro 13-inch (M4)",
+    "file": "./assets/devices/ipad-pro-13-inch-m4.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-1.png"
+  },
+  {
+    "model": "iPad Pro 11-inch (M4)",
+    "file": "./assets/devices/ipad-pro-11-inch-m4.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-2.png"
+  },
+  {
+    "model": "iPad Pro 12.9-inch (6th generation)",
+    "file": "./assets/devices/ipad-pro-12-9-inch-6th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-12-9-inch-6gen-ipad-pro.png"
+  },
+  {
+    "model": "iPad Pro 11-inch (4th generation)",
+    "file": "./assets/devices/ipad-pro-11-inch-4th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-11-inch-4gen-ipad-pro.png"
+  },
+  {
+    "model": "iPad Pro 12.9-inch (5th generation)",
+    "file": "./assets/devices/ipad-pro-12-9-inch-5th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-12-9-colors.png"
+  },
+  {
+    "model": "iPad Pro 11-inch (3rd generation)",
+    "file": "./assets/devices/ipad-pro-11-inch-3rd-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/2021-ipad-pro-11-colors.png"
+  },
+  {
+    "model": "iPad Pro 12.9-inch (4th generation)",
+    "file": "./assets/devices/ipad-pro-12-9-inch-4th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-12-9-in.png"
+  },
+  {
+    "model": "iPad Pro 11-inch (2nd generation)",
+    "file": "./assets/devices/ipad-pro-11-inch-2nd-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios13-4-ipad-pro-4gen-11-in.png"
+  },
+  {
+    "model": "iPad Pro 12.9-inch (3rd generation)",
+    "file": "./assets/devices/ipad-pro-12-9-inch-3rd-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-12-9-in.png"
+  },
+  {
+    "model": "iPad Pro 11-inch",
+    "file": "./assets/devices/ipad-pro-11-inch.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ios12-ipad-pro-11-in.png"
+  },
+  {
+    "model": "iPad Air 13-inch (M3)",
+    "file": "./assets/devices/ipad-air-13-inch-m3.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-13.png"
+  },
+  {
+    "model": "iPad Air 11-inch (M3)",
+    "file": "./assets/devices/ipad-air-11-inch-m3.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad-air-11.png"
+  },
+  {
+    "model": "iPad Air 13-inch (M2)",
+    "file": "./assets/devices/ipad-air-13-inch-m2.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-3.png"
+  },
+  {
+    "model": "iPad Air 11-inch (M2)",
+    "file": "./assets/devices/ipad-air-11-inch-m2.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2024-4.png"
+  },
+  {
+    "model": "iPad Air (5th generation)",
+    "file": "./assets/devices/ipad-air-5th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-air-5th-gen-colors.png"
+  },
+  {
+    "model": "iPad Air (4th generation)",
+    "file": "./assets/devices/ipad-air-4th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-air-4th-gen-colors.png"
+  },
+  {
+    "model": "iPad mini (A17 Pro)",
+    "file": "./assets/devices/ipad-mini-a17-pro.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad-mini/ipad-mini-2024-colors.png"
+  },
+  {
+    "model": "iPad mini (6th generation)",
+    "file": "./assets/devices/ipad-mini-6th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-2021-colors.png"
+  },
+  {
+    "model": "iPad mini (5th generation)",
+    "file": "./assets/devices/ipad-mini-5th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-mini-5gen.png"
+  },
+  {
+    "model": "iPad (A16)",
+    "file": "./assets/devices/ipad-a16.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/spring-2025-ipad.png"
+  },
+  {
+    "model": "iPad (10th generation)",
+    "file": "./assets/devices/ipad-10th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/fall-2022-10-gen-ipad.png"
+  },
+  {
+    "model": "iPad (9th generation)",
+    "file": "./assets/devices/ipad-9th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-2021-colors.png"
+  },
+  {
+    "model": "iPad (8th generation)",
+    "file": "./assets/devices/ipad-8th-generation.png",
+    "source": "https://cdsassets.apple.com/live/7WUAS350/images/ipad/ipad/ipad-8th-gen-colors.png"
+  }
+];
