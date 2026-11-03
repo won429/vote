@@ -13,3 +13,5 @@
 @media(max-width:359px){.device-top .product-photo{height:100px}.device-top{min-height:104px}.device-top h1{font-size:22px}}
 .device-stats{display:flex;gap:24px;margin-top:16px;padding-top:0;border-top:0}.device-stats>div{display:flex;align-items:center;gap:9px}.device-stats dt{font-size:12px}.device-stats dd{font-size:18px;margin:0}.device-stats dd small{font-size:12px}
 dialog .battery-section{padding:23px 0 0;border:0}
+
+.research-source{margin-top:15px}.research-source a{display:flex;align-items:center;gap:5px;color:var(--blue);font-size:13px;line-height:1.6;min-height:32px}.research-source svg{width:14px;height:14px;flex-shrink:0}.research-source small{display:block;color:var(--muted);font-size:11px;line-height:1.7}
